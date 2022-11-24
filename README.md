@@ -1,4 +1,4 @@
-This is a Simon game made by Gani Omirzak after a challenged by Angela.
+This is a Simon game made by Gani Omirzak.
 
 If you haven't played simon then the following are the rules:
 1. To start press any key on your keyboard
